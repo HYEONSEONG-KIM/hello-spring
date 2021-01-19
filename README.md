@@ -1,6 +1,6 @@
 # hello-spring
-Inflearn-Spring입문(김영한)강의 공부 레퍼지토리✏  
-사용 tool : Java 11, InteliJ
+- Inflearn-Spring입문(김영한)강의 공부 레퍼지토리✏  
+- 사용 tool : Java 11, InteliJ
 
 ## 왜 Spring을 사용하는가?
 - Spring은 애플리케이션을 구축하기위한 경량화된 솔루션을 제공하여 효율적인 개발 환경을 제공한다.
@@ -25,7 +25,7 @@ Inflearn-Spring입문(김영한)강의 공부 레퍼지토리✏
 - 기능 : 회원 등록,조회
 - 아직 DB가 선정되지 않았음을 가정
 - 일반적인 웹 애플리케이션 계층 구조  
-![image](https://user-images.githubusercontent.com/70748105/104979979-e91bf200-5a48-11eb-9b9c-491fc3d2f73e.png)
+![image](https://user-images.githubusercontent.com/70748105/104981419-ea025300-5a4b-11eb-8892-568a06717afd.png)
   * 컨트롤러 : 웹MVC의 컨트롤러 역할
   * 서비스 : 핵심 비즈니스 로직 구현
   * 리포지토리 : DB에 접근, 도메인 객체를 DB에 저장하고 관리
